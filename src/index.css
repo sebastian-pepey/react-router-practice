@@ -1,0 +1,8 @@
+header {
+  background: linear-gradient(to right, #6d5fd7,#b467a7);
+  width: 100%;
+  display: flexbox;
+  flex-direction: row;
+}
+
+
